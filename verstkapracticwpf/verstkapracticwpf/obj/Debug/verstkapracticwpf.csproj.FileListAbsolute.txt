@@ -1,0 +1,16 @@
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\bin\Debug\verstkapracticwpf.exe.config
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\bin\Debug\verstkapracticwpf.exe
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\bin\Debug\verstkapracticwpf.pdb
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.csproj.AssemblyReference.cache
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\MainWindow.g.cs
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\App.g.cs
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf_MarkupCompile.cache
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf_MarkupCompile.lref
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\MainWindow.baml
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.g.resources
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.Properties.Resources.resources
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.csproj.GenerateResource.cache
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.csproj.CoreCompileInputs.cache
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.exe
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\obj\Debug\verstkapracticwpf.pdb
+C:\Users\web2\source\repos\itcchampionship\verstkapracticwpf\verstkapracticwpf\bin\Debug\Resources\man.jpg
